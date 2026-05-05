@@ -2,8 +2,8 @@ site_name: Arkeo Nomad Plugin
 
 theme:
   name: material
-  logo: assets/images/horizcicci-trans.png
-  favicon: assets/images/CicciFavicon.png
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
   features:
     - navigation.expand
     - navigation.sections
